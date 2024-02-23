@@ -1,1 +1,3 @@
-Good lord whats happening in there!?
+Denna webbsida kombinerar funktionerna av ett enkelt pokerspel med möjligheten att ändra bakgrundsfärgen på sidan. Användaren kan interagera med spelet genom att dra nya kort, kasta kort från handen och återställa spelet. Sidan tillåter även användaren att ändra bakgrundsfärgen genom att ange en färg i olika format (RGB, RGBA, HEX).
+
+Öppna console för att se poker spelet. Använd knapparna i webbläsaren för att gå vidare eller starta om.
